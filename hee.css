@@ -1,0 +1,196 @@
+.text h1{
+    font-family: open sans;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+}
+
+.text{
+    margin-top: -40%;
+}
+
+
+
+
+
+#intro{
+ color:black;
+ padding-top: 40%;
+ font-family: open sans;
+ font-weight: bolder;
+ width:60%;
+ margin-left: 20%;
+ text-align: center;
+ margin-top: -5%;
+ font-size: x-large;
+}
+
+
+#container11{
+
+}
+
+#container11{
+    grid-template-columns: 100%;
+    display: grid;
+}
+
+
+#OO{
+    font-family: open sans;
+    text-align: justify;
+    font-weight: bold;
+    padding: 10%;
+}
+
+#OO h1{
+    color: darkred;
+}
+
+#PP {
+    overflow: scroll;
+    width: 500px;
+    height: 400px;
+    margin-left: 10%;
+}
+
+#PP img{
+    width: 500px;
+    height: 400px;
+}
+
+
+#PP::-webkit-scrollbar{
+    display: none;
+}
+
+
+#TT{
+    overflow: scroll;
+    width: 500px;
+    height: 400px;
+}
+
+#TT img{
+    width: 500px;
+    height: 400px;
+}
+
+#TT::-webkit-scrollbar{
+    display: none;
+}
+
+
+#index-container-image-1{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+#QQ{
+    font-family: open sans;
+    text-align: justify;
+    font-weight: bold;
+    padding: 10%;
+}
+
+
+
+#SS{
+    
+    height: 300px;
+    margin-left:10%;
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    overflow: scroll;
+    margin-bottom: 10%;
+}
+
+
+
+#SS img{
+    width: 500px;
+    height: 300px;
+}
+    
+#SS::-webkit-scrollbar{
+        display: none;
+    }
+    
+
+ #RR{
+    font-family: open sans;
+    text-align: justify;
+    font-weight: bold;
+    padding: 10%;
+ }   
+
+
+ footer img{
+    width: 20px;
+    
+}
+
+footer{
+    background-color:white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer a {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    
+}
+
+#footer-ul{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+#headerimg{
+    height: 800px;
+    width: 100%;
+    object-fit: cover;
+    background-image: url(images/headerimage.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
